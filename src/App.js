@@ -12,7 +12,7 @@ var listOfVideos = {
     {
       name: "How I hacked online dating",
       speaker: "Amy Webb",
-      rating: "5/5",
+      rating: "4/5",
       link: "https://youtu.be/d6wG_sAdP0U"
     },
     {
